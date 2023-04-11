@@ -2,11 +2,7 @@ import java.util.Scanner;
 
 public class KdvHesaplama {
     public static void main(String[] args) {
-        /*
-        * kdvsiz tutar:input
-        * input + input*0,18 = kdvli tutar
-        * input*0,18 = kdv tutarı
-        * */
+      
 
         double kdv;
         double kdvliFiyat, kdvTutari, fiyat;
