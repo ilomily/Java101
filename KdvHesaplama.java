@@ -20,8 +20,7 @@ public class KdvHesaplama {
         System.out.println("KDV'li Fiyat: " + kdvliFiyat);
         System.out.println("KDV Tutarı: " + kdvTutari);
 
-
-
+//https://app.patika.dev/ilomilo
 
 
     }
